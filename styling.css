@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+}
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
